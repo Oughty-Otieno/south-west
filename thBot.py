@@ -13,8 +13,8 @@ month = 3 #today.month
 day = 8 #today.day
 
 #You need both the token and chat id to send the message
-TOKEN = "6037481081:AAGAoQ1p1jfajC9vqzyptxn3VPOB66-PGe8"
-chat_id = "674660704"
+TOKEN = "I have hidden my token"
+chat_id = "I have hidden my chat id too"
 
 #loop through the df, if you get a date matching today; send a message
 for tuple in df.itertuples():
